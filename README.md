@@ -25,3 +25,6 @@ Lowest-performing products: Blender B10 and Microwave M20
 - Investigate May Drop: Identify root cause of the sharp profit decline
 - Focus on High-Performing Products: Increase investment in laptops and tech products
 - Improve Low-Performing Products: Reassess pricing, marketing, or discontinue weak products
+## Dashboard
+<img width="960" height="540" alt="Dashboard" src="https://github.com/user-attachments/assets/7e0d0a93-aa8a-4d73-aa93-ecf9c9a5b7c7" />
+
