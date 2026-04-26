@@ -14,6 +14,14 @@ Top-performing product: Laptop A13 (₦105M profit)
 Other strong performers include Sofa Classic and Desktop PC D21
 Lowest-performing products: Blender B10 and Microwave M20
 4. Profit steadily increased from January to March, peaking at ₦126M. However, a sharp decline was observed in May (₦2.6M), indicating a potential issue such as reduced sales, increased costs, or data inconsistency.
-
-
-The business serves 2,098 customers, indicating a relatively broad customer base. Further analysis could explore customer segmentation and revenue per customer.
+## Tools & Techniques
+- Microsoft Excel (Dashboard & Visualization)
+- Pivot Tables
+- Data Cleaning & Transformation
+- KPI Tracking
+- Interactive Filters (Region & Category)
+## Recommendation
+- Reduce high COGS especially in Lagos
+- Investigate May Drop: Identify root cause of the sharp profit decline
+- Focus on High-Performing Products: Increase investment in laptops and tech products
+- Improve Low-Performing Products: Reassess pricing, marketing, or discontinue weak products
